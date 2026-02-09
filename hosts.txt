@@ -1,0 +1,67 @@
+[{
+    "id_app": "1",
+    "name_app": "ELITE iptv",
+    "domain": "https://elite.abckmnotllertk.live/tcode/V1/API-V1.php",
+    "st": "1"
+},{
+    "id_app": "1",
+    "name_app": "BRAVO iptv",
+    "domain": "https://bravo.abckmnotllertk.live/bravo/V1/API-V1.php",
+    "st": "1"
+}
+,{
+    "id_app": "1",
+    "name_app": "FLIX iptv",
+    "domain": "https://flix.abckmnotllertk.live/flix/tcode/V1/API-V1.php",
+    "st": "1"
+}
+,{
+    "id_app": "1",
+    "name_app": "SPORT iptv",
+    "domain": "https://sport.abckmnotllertk.live/spider/pro.php",
+    "st": "1"
+}
+,{
+    "id_app": "1",
+    "name_app": "zone iptv",
+    "domain": "http://zonetvdubb.ddns.net/provider",
+    "st": "1"
+}
+,{
+    "id_app": "1",
+    "name_app": "MONDIAL iptv",
+    "domain": "https://mondial.abckmnotllertk.live/mondial/v1.php",
+    "st": "1"
+}
+,{
+    "id_app": "1",
+    "name_app": "IPFOX iptv",
+    "domain": "http://active.abckmnotllertk.live/ipfox-v7/GET.php",
+    "st": "1"
+}
+,{
+    "id_app": "1",
+    "name_app": "POWER iptv",
+    "domain": "http://power.abckmnotllertk.live/iptv/V7/API-V7.php?mode=active",
+    "st": "1"
+}
+,{
+    "id_app": "1",
+    "name_app": "myhd iptv",
+    "domain": "http://my26.online/iptvkn9585/V6/MyHD.php",
+    "st": "1"
+}
+,{
+    "id_app": "1",
+    "name_app": "TURBO iptv",
+    "domain": "http://http://tu26.online/provider",
+    "st": "1"
+}
+,{
+    "id_app": "1",
+    "name_app": "SPEED iptv",
+    "domain": "http://sp26.online/iptvkn9585/V6/MaxFly.php",
+    "st": "1"
+}
+]
+
